@@ -1,9 +1,9 @@
 <h1>List sorting Python created by Sabo</h1>
-Descargar la version de Python necesaria antes de correr el programa.
+Download the required version of Python before running the program.
 <br>
-Edicion de lista basado en sorting y conceptos basicos de lists en Python.
+Sorting-based list editing and list basics in Python.
 <br>
-Conocimiento de Python basico.
+Basic Python knowledge.
 <br>
 <br>
 
